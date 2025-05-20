@@ -1,7 +1,8 @@
 # back-kit
 
->A modern CLI tool for scaffolding end-to-end projects with best practices and customizable configurations
-ye copy hai think about new description
+>A modern CLI tool for scaffolding end-to-end projects with best practices and customizable configurations  
+
+- ye copy hai think about new description
 ---
 
 ## Architecture
